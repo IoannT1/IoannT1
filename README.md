@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
-<img align="right" src="animatedgif.gif" alt="Coding GIF" width="500" />
-
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="animatedgif.gif">
+</a>
 ## 👋 Introduction
 
 Hello! I'm a software developer currently studying at [Kood/Johvi](https://kood.tech/), a unique coding school that emphasizes hands-on learning and real-world projects. I'm passionate about building efficient, scalable solutions and am always eager to tackle challenging problems.
