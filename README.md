@@ -1,4 +1,6 @@
 # Welcome to My GitHub Profile!
+<img align="right" src="mygiff.gif" alt="Coding GIF" width="500" />
+
 
 ## 👋 Introduction
 
