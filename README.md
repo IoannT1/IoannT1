@@ -42,6 +42,6 @@ Hello! I'm a software developer currently studying at [Kood/Jõhvi](https://kood
 Feel free to contact me for collaborations, learning opportunities, or just to chat about technology.
 
 - **Email:** ioann.tosjatsnikov@gmail.com
-- **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/ioann-t%C3%B5sjat%C5%A1nikov-446566262/)]
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ioann-t%C3%B5sjat%C5%A1nikov-446566262/)
 
 ## 🌟 Let's build something amazing together!
