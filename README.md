@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="animatedgif.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="animatedgif">
 </a>
 
 ## 👋 Introduction
